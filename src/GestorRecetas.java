@@ -41,7 +41,6 @@ public class GestorRecetas {
         } while (opcion != 0);
 
         guardarConfiguracion();
-        System.out.println("¡Hasta pronto!");
     }
 
     private int menu() {
