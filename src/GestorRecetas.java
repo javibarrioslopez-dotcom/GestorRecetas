@@ -45,7 +45,7 @@ public class GestorRecetas {
     }
 
     private int menu() {
-        System.out.println("\n=== GESTOR DE RECETAS ===");
+        System.out.println("\nGESTOR DE RECETAS");
         System.out.println("1. Mostrar todas las recetas");
         System.out.println("2. Buscar receta por id");
         System.out.println("3. Modificar tiempo de preparación");
